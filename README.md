@@ -1,2 +1,2 @@
 # DAMI-Zephyr-Chatbot-2021
-Chatbot Menggunakan Special Recurrent Neural Network (LSTM)
+Chatbot Menggunakan Seq2Seq Neural Network
