@@ -1,2 +1,2 @@
-# PBA-Zephyr-Chatbot-2021
+# PBA-Zephyr-Chatbot-2020/21
 Chatbot Menggunakan Seq2Seq Neural Network
